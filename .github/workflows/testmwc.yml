@@ -29,3 +29,9 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+
+      - name: Run added script
+        run: |
+          echo Hello Crazy Crazy world
+          echo This is cool.
+        
